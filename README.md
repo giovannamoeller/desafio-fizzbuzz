@@ -2,7 +2,7 @@
 <br>
 <p>Esse projeto consiste em um desafio realizado para um processo seletivo.</p><br>
 Modos para rodar o código:
-<br>
+<br><br>
 <b>1. Utilizando o Node</b><br>
 Abrindo o terminal e digite: `node desafio.js`<br>
 <br>
