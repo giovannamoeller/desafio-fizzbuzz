@@ -1,6 +1,6 @@
 # Desafio FizzBuzz
 <br>
-<p>Esse projeto consiste em um desafio realizado para um processo seletivo.</p><br>
+<p>Esse projeto consiste em um desafio realizado para um processo seletivo. A linguagem utilizada foi <b>Javascript<b>.</p><br>
 Modos para rodar o código:
 <br><br>
 <b>1. Utilizando o Node</b><br>
